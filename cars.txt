@@ -1,0 +1,7 @@
+BUggati S1 32759 $599 1
+fuel s1 1 1 1
+Buggati S2 1 $566 1
+Bugatti Z1 666 Petrol 1
+Rolls Royce 789 petrol 1
+nohk n1 987 Petrol 1
+Honda V25 399 Petrol 1
